@@ -2,7 +2,7 @@ package com.example.coolweather.gson;
 
 public class AQI {
 
-    public AQIcity aqi;
+    public AQIcity city;
 
     public class AQIcity {
         public String aqi;
